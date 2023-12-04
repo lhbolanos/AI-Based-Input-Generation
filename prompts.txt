@@ -1,0 +1,14 @@
+Simple (one element)
+"Add another element to the following XML file."
+
+Multiple (three elements)
+"Add three elements to the following XML file."
+
+Nested element 
+"Add only a nested element to the following XML file."
+
+Attribute with values
+"Generate an element with attribute values to the following XML file."
+
+Attribute without values
+"Generate an element without attribute values to the following XML file."
