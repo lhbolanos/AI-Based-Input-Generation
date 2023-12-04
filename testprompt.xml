@@ -1,0 +1,17 @@
+<schedule>
+  <lecture>
+    <topic>Testing Overview</topic>
+    <instructor>Qian Zhang</instructor>
+    <time>Week 1</time>
+  </lecture>
+  <lecture>
+    <topic>Input Space Partitioning</topic>
+    <instructor>Qian Zhang</instructor>
+    <time>Week 2</time>
+  </lecture>
+  <lecture>
+    <topic>Test Coverage</topic>
+    <instructor>Qian Zhang</instructor>
+    <time>Week 3</time>
+  </lecture>
+</schedule>
