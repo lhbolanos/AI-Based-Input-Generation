@@ -1,4 +1,4 @@
-# Option 2: AI-based Input Generation
+# AI-based Input Generation
 
 
 Pre-trained large language models (LLMs) have recently emerged as a breakthrough technique,
